@@ -1,4 +1,4 @@
-require 'rspec'
+require_relative 'spec/spec_helper'
 
 class Calculator
   def add(a,b)

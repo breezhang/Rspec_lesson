@@ -1,4 +1,4 @@
-require 'rspec'
+require_relative 'spec/spec_helper'
 
 # describe 'My behaviour' do
 #
