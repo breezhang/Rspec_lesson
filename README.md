@@ -6,5 +6,5 @@ Rspec basic tutorial
 > 2.  if  choice rubymine IDE 
        then use rvm must be bad choice  
        rbenv can work remoute host
-> 3.  spec_helper is profile file config Rspec framework 
+> 3.  spec_helper is profile file config Rspec framework  so cli tools can make sample file ```rspec --init```
 
